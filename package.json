@@ -1,0 +1,15 @@
+{
+  "name": "wordguessgameconstructor",
+  "version": "1.0.0",
+  "description": "the pkg",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "help"
+  },
+  "author": "ian sanchez",
+  "license": "ISC"
+}
